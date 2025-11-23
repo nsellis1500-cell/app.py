@@ -1,1 +1,10 @@
+"""
+Savings Goal Tracker
+Author: Noah Ellis
 
+This simple Python program helps a user estimate
+how long it will take to reach a savings goal
+based on their current savings and weekly contribution.
+"""
+# Task 1: Welcome message
+print("Welcome to the Savings Goal Tracker!")
